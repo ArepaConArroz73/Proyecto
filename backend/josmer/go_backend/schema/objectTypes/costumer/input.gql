@@ -1,0 +1,53 @@
+input CreateCostumer{
+"""
+-type String
+"""
+firstName: String  
+"""
+-type String
+"""
+lastName: String   
+
+dni: DNI
+"""
+-type String
+"""
+address: String    
+"""
+-created
+"""
+created: DateTime    
+"""
+-updated
+"""
+updated: DateTime    
+}
+
+input UpdateCostumer{
+"""
+-type ID 
+"""
+_id: ID!         
+"""
+-type String
+"""
+firstName: String  
+"""
+-type String
+"""
+lastName: String   
+
+dni: DNI        
+"""
+-type String
+"""
+address: String    
+"""
+-created
+"""
+created: DateTime    
+"""
+-updated
+"""
+updated: DateTime    
+}

@@ -1,0 +1,49 @@
+type Costumer{
+"""
+-type ID 
+"""
+_id: ID!         
+"""
+-type String
+"""
+firstName: String  
+"""
+-type String
+"""
+lastName: String   
+"""
+-type DNI
+"""
+dni: DNI
+"""
+-type String
+"""
+address: String    
+"""
+-type Int
+"""
+totalVisits: Int
+
+"""
+-created
+"""
+
+created: DateTime    
+"""
+-updated
+"""
+
+updated: DateTime    
+}
+
+type EdgeCostumer{
+"""
+-bsonOmmit
+"""
+edge: [Costumer]
+"""
+-bsonOmmit
+"""
+pageInfo: PageInfo
+
+}

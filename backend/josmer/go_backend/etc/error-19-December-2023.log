@@ -1,0 +1,19 @@
+INFO: 2023/12/19 10:58:29 /home/darth_wayne/quiniela/go_backend/main.go:66: debugmode:  false
+INFO: 2023/12/19 10:58:29 /home/darth_wayne/quiniela/go_backend/vendor/github.com/pjmd89/gogql/lib/http/http.go:89: http server start
+INFO: 2023/12/19 11:21:48 /home/darth_wayne/quiniela/go_backend/main.go:66: debugmode:  false
+INFO: 2023/12/19 11:21:48 /home/darth_wayne/quiniela/go_backend/vendor/github.com/pjmd89/gogql/lib/http/http.go:89: http server start
+INFO: 2023/12/19 17:05:06 /home/darth_wayne/quiniela/go_backend/main.go:66: debugmode:  false
+INFO: 2023/12/19 17:05:06 /home/darth_wayne/quiniela/go_backend/vendor/github.com/pjmd89/gogql/lib/http/http.go:89: http server start
+INFO: 2023/12/19 17:10:23 /home/darth_wayne/quiniela/go_backend/main.go:66: debugmode:  false
+INFO: 2023/12/19 17:10:23 /home/darth_wayne/quiniela/go_backend/vendor/github.com/pjmd89/gogql/lib/http/http.go:89: http server start
+ERROR: 2023/12/19 17:10:44 /home/darth_wayne/quiniela/go_backend/vendor/github.com/pjmd89/gogql/lib/http/http.go:126: http: named cookie not present
+INFO: 2023/12/19 17:43:32 /home/darth_wayne/quiniela/go_backend/main.go:66: debugmode:  false
+INFO: 2023/12/19 17:43:32 /home/darth_wayne/quiniela/go_backend/vendor/github.com/pjmd89/gogql/lib/http/http.go:89: http server start
+INFO: 2023/12/19 17:46:28 /home/darth_wayne/quiniela/go_backend/main.go:66: debugmode:  false
+INFO: 2023/12/19 17:46:28 /home/darth_wayne/quiniela/go_backend/vendor/github.com/pjmd89/gogql/lib/http/http.go:89: http server start
+INFO: 2023/12/19 17:48:02 /home/darth_wayne/quiniela/go_backend/main.go:66: debugmode:  false
+INFO: 2023/12/19 17:48:02 /home/darth_wayne/quiniela/go_backend/vendor/github.com/pjmd89/gogql/lib/http/http.go:89: http server start
+INFO: 2023/12/19 18:01:08 /home/darth_wayne/quiniela/go_backend/main.go:66: debugmode:  false
+INFO: 2023/12/19 18:01:08 /home/darth_wayne/quiniela/go_backend/vendor/github.com/pjmd89/gogql/lib/http/http.go:89: http server start
+INFO: 2023/12/19 18:06:54 /home/darth_wayne/quiniela/go_backend/main.go:66: debugmode:  false
+INFO: 2023/12/19 18:06:54 /home/darth_wayne/quiniela/go_backend/vendor/github.com/pjmd89/gogql/lib/http/http.go:89: http server start

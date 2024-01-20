@@ -1,0 +1,8 @@
+INFO: 2023/12/25 21:44:20 /home/darth_wayne/quiniela/go_backend/main.go:69: debugmode:  false
+INFO: 2023/12/25 21:44:20 /home/darth_wayne/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+INFO: 2023/12/25 22:00:57 /home/darth_wayne/quiniela/go_backend/main.go:69: debugmode:  false
+INFO: 2023/12/25 22:00:57 /home/darth_wayne/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+INFO: 2023/12/25 22:35:54 /home/darth_wayne/quiniela/go_backend/main.go:69: debugmode:  false
+INFO: 2023/12/25 22:35:54 /home/darth_wayne/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+INFO: 2023/12/25 23:31:34 /home/darth_wayne/quiniela/go_backend/main.go:69: debugmode:  false
+INFO: 2023/12/25 23:31:34 /home/darth_wayne/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start

@@ -1,0 +1,10 @@
+INFO: 2024/01/03 20:47:30 /home/darth_wayne/quiniela/go_backend/main.go:71: debugmode:  false
+INFO: 2024/01/03 20:47:30 /home/darth_wayne/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+INFO: 2024/01/03 20:49:13 /home/darth_wayne/quiniela/go_backend/main.go:71: debugmode:  false
+INFO: 2024/01/03 20:49:13 /home/darth_wayne/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+INFO: 2024/01/03 21:06:52 /home/darth_wayne/quiniela/go_backend/main.go:71: debugmode:  false
+INFO: 2024/01/03 21:06:52 /home/darth_wayne/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+INFO: 2024/01/03 22:40:38 /home/darth_wayne/quiniela/go_backend/main.go:71: debugmode:  false
+INFO: 2024/01/03 22:40:38 /home/darth_wayne/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
+INFO: 2024/01/03 22:58:12 /home/darth_wayne/quiniela/go_backend/main.go:71: debugmode:  false
+INFO: 2024/01/03 22:58:12 /home/darth_wayne/go/pkg/mod/github.com/pjmd89/gogql@v0.7.1-0.20230612165905-d5f88f15895d/lib/http/http.go:89: http server start
